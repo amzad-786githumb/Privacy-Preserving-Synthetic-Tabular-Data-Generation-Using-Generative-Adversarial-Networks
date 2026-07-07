@@ -1,0 +1,1 @@
+# Privacy-Preserving-Synthetic-Tabular-Data-Generation-Using-Generative-Adversarial-Networks
